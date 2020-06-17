@@ -1,0 +1,4 @@
+Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
+http://localhost/#/index,2020,102,2,6,285,2652,1,4297,0.000%,1.39315,3.25,0.00
+http://localhost:8081,2020,52,1,5,82,1616,1,3151,0.000%,1.39315,3.25,0.00
+TOTAL,4040,77,2,5,164,2168,1,4297,0.000%,2.78630,6.51,0.00
